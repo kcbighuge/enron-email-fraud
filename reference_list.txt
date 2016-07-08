@@ -1,0 +1,15 @@
+List of References
+
+https://github.com/udacity/ud120-projects/tree/master/final_project
+https://github.com/udacity/machine-learning/tree/master/projects/student_intervention
+
+http://scikit-learn.org/stable/modules/feature_selection.html#univariate-feature-selection
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
+http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
+http://scikit-learn.org/stable/modules/classes.html#sklearn-metrics-metrics
+
+http://partiallyderivative.com/podcast/2016/06/27/randy-olson-interview
+http://yann.lecun.com/exdb/mnist/
+https://github.com/rhiever/sklearn-benchmarks
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
